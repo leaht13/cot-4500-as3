@@ -16,7 +16,7 @@ for i in range(N):
 
 # Print y after 10 iterations
 print(y2)
-
+print("\n")
 
 # Runge-Kutta
 # We don't need to redeclare values (all the same)
